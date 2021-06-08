@@ -60,3 +60,4 @@
 /ignore Riopa
 /ignore NetherRegion
 /ignore dan_999
+/ignore hlsl
