@@ -63,3 +63,5 @@
 /ignore hlsl
 /ignore Creely_
 /ignore SocietalParasite
+/ignore 0Papillon_
+/ignore Pearit
