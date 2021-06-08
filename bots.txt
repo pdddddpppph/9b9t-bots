@@ -58,3 +58,4 @@
 /ignore bito_faboi
 /ignore DylanJSimpson
 /ignore Riopa
+/ignore NetherRegion
