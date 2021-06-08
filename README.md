@@ -1,4 +1,4 @@
-Some retard decided to make one for me for some reason idk this is the original one anyways!
+Some retard decided to make one for me for some reason this is the original one!
 
 Last updated: 08/06/2021
 
