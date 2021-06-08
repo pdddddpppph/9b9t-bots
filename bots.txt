@@ -62,3 +62,4 @@
 /ignore dan_999
 /ignore hlsl
 /ignore Creely_
+/ignore SocietalParasite
