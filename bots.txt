@@ -41,3 +41,5 @@
 /ignore Narheath
 /ignore CounterTopCasey
 /ignore Strudel206
+/ignore lang0327
+/ignore buuffaalloo
