@@ -79,3 +79,4 @@
 /ignore yolocastm
 /ignore Metavet
 /ignore KingShadow47
+/ignore DarkDevilKin
