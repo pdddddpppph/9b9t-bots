@@ -1,15 +1,23 @@
+# 9B9T - Bots
+
 Some retard decided to make one for me for some reason this is the original one!
 
-Last updated: 08/06/2021
+This repository is made for listing all the 9b9t bot's account to make ignoring them easier
 
-Info: 
-List of bots lol. 
+## Usage
 
-Usage: 
-I suggest to use a spammer to spam /ignore on the bots.
+```text
+Import the text file into your favorite chat spammer!
+```
 
-Help:
-pddm#6837
+## Contributors 
 
-If u want to support me: 
-https://www.youtube.com/channel/UClpbhQHhcx5Zb4WShL5cmyg
+[pddm#6837](https://github.com/pdddddpppph) 
+[DarrenOfficial#3451](https://github.com/DarrenOfficial)
+[Snowy404](https://github.com/Snowy404)
+
+## Last updated
+08/06/2021
+
+## If u want to support me: 
+[pddm Youtube](https://www.youtube.com/channel/UClpbhQHhcx5Zb4WShL5cmyg)
