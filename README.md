@@ -4,6 +4,7 @@ Last updated: 08/06/2021
 
 Info: 
 List of bots lol. 
+If you want to contribute with bots make sure they arent already listed, thanks it really helps me out!
 
 Usage: 
 I suggest to use a spammer to spam /ignore on the bots.
