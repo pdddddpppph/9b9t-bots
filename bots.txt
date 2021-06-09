@@ -73,3 +73,4 @@
 /ignore 420_LITMAN_420
 /ignore jacobhalam
 /ignore Seraxes
+/ignore UrBoi48
