@@ -74,3 +74,4 @@
 /ignore Seraxes
 /ignore UrBoi48
 /ignore Joshie_the_Bear
+/ignore LukeNGood
