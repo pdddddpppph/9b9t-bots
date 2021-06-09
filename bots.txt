@@ -80,3 +80,4 @@
 /ignore Metavet
 /ignore KingShadow47
 /ignore DarkDevilKin
+/ignore VortexPlaysYT
