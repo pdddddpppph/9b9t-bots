@@ -53,12 +53,15 @@
 /ignore Anton6969
 /ignore oof___boy
 /ignore PepeDaddy
-/ignore MirillonDelivery
-/ignore fun1
+/ignore WhiteSnake11496
+/ignore fun1 
+/ignore ngg1980
 /ignore bito_faboi
-/ignore DylanJSimpson
+/ignore Malone2409
+/ignore AcasiaRavenwing
 /ignore Riopa
-/ignore NetherRegion
+/ignore NetherRegio
+/ignore DylanJSimpson
 /ignore dan_999
 /ignore hlsl
 /ignore Creely_
@@ -66,3 +69,5 @@
 /ignore 0Papillon_
 /ignore Pearit
 /ignore Malone2409
+/ignore CapnTsuna
+/ignore 420_LITMAN_420
