@@ -57,3 +57,15 @@
 /ignore fun1 
 /ignore ngg1980
 /ignore bito_faboi
+/ignore Malone2409
+/ignore AcasiaRavenwing
+/ignore Riopa
+/ignore NetherRegio
+/ignore DylanJSimpson
+/ignore dan_999
+/ignore hlsl
+/ignore Creely_
+/ignore SocietalParasite
+/ignore 0Papillon_
+/ignore Pearit
+/ignore Malone2409
