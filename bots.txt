@@ -65,3 +65,4 @@
 /ignore SocietalParasite
 /ignore 0Papillon_
 /ignore Pearit
+/ignore Malone2409
