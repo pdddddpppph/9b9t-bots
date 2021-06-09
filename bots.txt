@@ -73,3 +73,4 @@
 /ignore 420_LITMAN_420
 /ignore Seraxes
 /ignore UrBoi48
+/ignore Joshie_the_Bear
