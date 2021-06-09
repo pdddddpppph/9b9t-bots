@@ -70,3 +70,4 @@
 /ignore Pearit
 /ignore Malone2409
 /ignore CapnTsuna
+/ignore 420_LITMAN_420
