@@ -77,3 +77,4 @@
 /ignore LukeNGood
 /ignore GShinG
 /ignore yolocastm
+/ignore Metavet
