@@ -83,3 +83,4 @@
 /ignore VortexPlaysYT
 /ignore birdry
 /ignore DavidDontKnow
+/ignore mornacas
