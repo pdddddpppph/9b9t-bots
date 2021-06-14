@@ -85,3 +85,10 @@
 /ignore DavidDontKnow
 /ignore mornacas
 /ignore 01_QUI_SHOP
+/ignore GaussDrake
+/ignore UnkVirus
+/ignore Putin7929
+/ignore krbb
+/ignore Katz360
+/ignore Reubatron20
+/ignore Markusklarcus
